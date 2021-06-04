@@ -107,7 +107,7 @@ export const VALIDATION_STATUSES = {
   },
   validation_status_not_approved: {
     value: 'validation_status_not_approved',
-    label: t('Not Approved'),
+    label: t('Rejected'),
   },
   validation_status_approved: {
     value: 'validation_status_approved',
@@ -115,7 +115,7 @@ export const VALIDATION_STATUSES = {
   },
   validation_status_on_hold: {
     value: 'validation_status_on_hold',
-    label: t('On Hold'),
+    label: t('Pending'),
   },
 };
 
