@@ -809,7 +809,7 @@ export default assign({
 
     if (!this.state.isNewAsset && !this.state.asset) {
       return (
-        <DocumentTitle title={`${docTitle} | KoboToolbox`}>
+        <DocumentTitle title={`${docTitle} | APPID`}>
           {renderLoading()}
         </DocumentTitle>
       );
@@ -823,7 +823,7 @@ export default assign({
     );
 
     return (
-      <DocumentTitle title={`${docTitle} | KoboToolbox`}>
+      <DocumentTitle title={`${docTitle} | APPID`}>
         <ui.Panel m={['transparent', 'fixed']}>
           {this.renderAside()}
 
