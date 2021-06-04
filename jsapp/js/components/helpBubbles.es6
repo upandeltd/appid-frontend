@@ -379,7 +379,7 @@ export class SupportHelpBubble extends HelpBubble {
             >
               <i className='k-icon k-icon-help-articles'/>
               <header>{t('KoBoToolbox Help Center')}</header>
-              <p>{t('A vast collection of user support articles and tutorials related to KoBo')}</p>
+              <p>{t('A vast collection of user support articles and tutorials related to KoBo which APPID is based on.')}</p>
             </bem.HelpBubble__rowAnchor>
           }
 
