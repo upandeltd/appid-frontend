@@ -118,7 +118,7 @@ class App extends React.Component {
     }
 
     return (
-      <DocumentTitle title='KoBoToolbox'>
+      <DocumentTitle title='APPID'>
         <React.Fragment>
           <PermValidator/>
           <IntercomHandler/>
