@@ -100,6 +100,8 @@ INSTALLED_APPS = (
     'kobo.apps.help',
 )
 
+X_FRAME_OPTIONS = 'SAMEORIGIN'
+
 MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
