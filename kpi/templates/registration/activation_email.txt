@@ -7,7 +7,7 @@
 
 {% trans "Your username is: " %} {{ user }} 
 
-{% trans "Please visit https://community.kobotoolbox.org/ to find information on how to get started. There you can also post questions to the community (recommended) or to us directly." %}
+{% trans "Please visit https://africanplantpollinatorinteractions.org/ to find information on how to get started. There you can also post questions to the community (recommended) or to us directly." %}
 
 {% trans "Best," %}
 APPID
