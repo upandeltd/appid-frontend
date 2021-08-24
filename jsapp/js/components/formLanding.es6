@@ -365,7 +365,7 @@ export class FormLanding extends React.Component {
                 <li>
                   {t('Install')}
                   &nbsp;
-                  <a href='https://play.google.com/store/apps/details?id=org.koboc.collect.android&hl=en' target='_blank'>APPID Collect</a>
+                  <a href='https://play.google.com/store/apps/details?id=org.icipe.collect' target='_blank'>APPID Collect</a>
                   &nbsp;
                   {t('on your Android device.')}
                 </li>
