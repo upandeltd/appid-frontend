@@ -167,8 +167,8 @@ class Drawer extends Reflux.Component {
               <i className='k-icon k-icon-github' />
             </a>
           }
-        </bem.KDrawer__secondaryIcons>
-      </bem.KDrawer> */}
+        </bem.KDrawer__secondaryIcons> */}
+      </bem.KDrawer>
       );
   }
 }
