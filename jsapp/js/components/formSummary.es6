@@ -248,7 +248,7 @@ class FormSummary extends React.Component {
     const sideTabs = [
       {label: t('Reports'), icon: 'k-icon-report', path: `/forms/${this.state.uid}/data/report`},
       {label: t('Table'), icon: 'k-icon-table', path: `/forms/${this.state.uid}/data/table`},
-      {label: t('Gallery'), icon: 'k-icon-photo-gallery', path: `/forms/${this.state.uid}/data/gallery`},
+      // {label: t('Gallery'), icon: 'k-icon-photo-gallery', path: `/forms/${this.state.uid}/data/gallery`},
       {label: t('Downloads'), icon: 'k-icon-download', path: `/forms/${this.state.uid}/data/downloads`},
       {label: t('Map'), icon: 'k-icon-map-view', path: `/forms/${this.state.uid}/data/map`},
     ];
