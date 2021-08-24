@@ -6,7 +6,7 @@ export const EXPORT_TYPES = Object.freeze({
   spss_labels: {value: 'spss_labels', label: t('SPSS Labels'), isLegacy: false},
   xls_legacy: {value: 'xls_legacy', label: t('XLS (legacy)'), isLegacy: true},
   xls: {value: 'xls', label: t('XLS'), isLegacy: false},
-  zip_legacy: {value: 'zip_legacy', label: t('Media Attachments (ZIP)'), isLegacy: true},
+  // zip_legacy: {value: 'zip_legacy', label: t('Media Attachments (ZIP)'), isLegacy: true},
 });
 
 export const EXPORT_FORMATS = Object.freeze({
